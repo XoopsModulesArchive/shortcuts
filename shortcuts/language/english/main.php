@@ -2,7 +2,7 @@
 /**
  * ****************************************************************************
  * SHORTCUTS - MODULE FOR XOOPS
- * Copyright (c) Hervé Thouzard of Instant Zero (http://www.instant-zero.com)
+ * Copyright (c) HervÃ© Thouzard of Instant Zero (http://www.instant-zero.com)
  * ****************************************************************************
  */
 define("_SHORTCUTS_PGTITLE1","Add a shortcut to your list");

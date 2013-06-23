@@ -2,7 +2,7 @@
 /**
  * ****************************************************************************
  * SHORTCUTS - MODULE FOR XOOPS
- * Copyright (c) Hervé Thouzard of Instant Zero (http://www.instant-zero.com)
+ * Copyright (c) HervÃ© Thouzard of Instant Zero (http://www.instant-zero.com)
  * ****************************************************************************
  */
 define("_SHORTCUT_ADD_CURRENT_URL","Add current page");
