@@ -18,7 +18,7 @@ class shortcuts extends XoopsObject
 
 	function shortcuts($id = null)
 	{
-		$this->db =& Database::getInstance();
+		$this->db = Database::getInstance();
 		$this->initVar('shortcutid',XOBJ_DTYPE_INT,null,false,10);
 		$this->initVar('uid',XOBJ_DTYPE_INT,null,false,10);
 		$this->initVar('date',XOBJ_DTYPE_INT,null,false,10);

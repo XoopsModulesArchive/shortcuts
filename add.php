@@ -15,7 +15,7 @@ if(!is_object($xoopsUser)) {
 }
 
 $option = 0;
-$myts =& MyTextSanitizer::getInstance();
+$myts = MyTextSanitizer::getInstance();
 
 if(isset($_GET['Url'])) {
 	$url = $myts->htmlSpecialChars(urldecode($_GET['Url']));
